@@ -2,7 +2,9 @@ package Elements;
 
 import java.io.File;
 
-public interface TextObject {
+public interface TextEditor {
      public String getFullText();
+
+
 
 }

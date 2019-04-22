@@ -1,7 +1,6 @@
 package Elements;
 
-public class Symbol implements TextObject {
-    @Override
+public class Symbol implements TextEditor {
     public String getFullText() {
         return null;
     }
